@@ -22,7 +22,7 @@
 
 
 ## How to run the code
-- git clone https://github.com/AjayYadavAi/add-to-cart-project.git
+- git clone https://github.com/ehab-elshimi/add-to-cart-program.git
 - cd laravel-starter
 - cp .env.example `.env`
 - open .env and update DB_DATABASE (database details)
